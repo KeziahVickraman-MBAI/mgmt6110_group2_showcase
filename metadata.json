@@ -1,0 +1,7 @@
+{
+  "name": "Singapore Carpark Exception Board",
+  "description": "Real-time Singapore carpark exception board showing the two largest occupancy deviations from normal baseline, adjusted for per-area rain.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
