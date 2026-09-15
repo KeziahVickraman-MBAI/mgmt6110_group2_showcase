@@ -94,11 +94,11 @@ export function UserStatementBanner() {
                   Whether today is normal
                 </h4>
                 <p className="text-xs text-stone-600 leading-relaxed">
-                  Which nearby carparks are running above or below their usual occupancy for this hour of this weekday, in net cars. Weather is already removed, so a wet Tuesday does not read as unusual when it is just rain.
+                  Which nearby carparks have more or fewer free lots than they usually do at this hour on this weekday, in net cars. When it rains the expectation is lowered first, so a wet Tuesday does not read as unusual when it is just rain.
                 </p>
               </div>
               <div className="mt-3 pt-2.5 border-t border-stone-200/80 text-[11px] font-mono text-stone-500">
-                Metric: Net cars vs. rain-adjusted baseline
+                Metric: Net free lots vs. own weekday baseline
               </div>
             </div>
 
