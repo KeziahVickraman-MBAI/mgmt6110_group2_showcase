@@ -1,6 +1,6 @@
 # Singapore Carpark Exception Board
 
-**Course:** MGMT 6110 · Group 2 showcase · **Log author:** Keziah Sherlyn Vanessa Vickraman
+**Course:** MGMT 6110 · Group 2 showcase 
 
 **Live:** https://mgmt6110group2showcase.vercel.app/
 **Repository:** https://github.com/KeziahVickraman-MBAI/mgmt6110_group2_showcase
